@@ -4,10 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Course2Application {
-
+public class ExamQuestionGeneratorApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(Course2Application.class, args);
+		SpringApplication.run(ExamQuestionGeneratorApplication.class, args);
 	}
-
 }
